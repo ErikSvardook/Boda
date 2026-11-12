@@ -213,7 +213,7 @@ export const site = {
         name: "Erik Jarquín Sánchez",
         collaborator: "David Alexander Gómez Jarquín",
         role: "Diseñado y desarrollado por",
-        email: "erikjarquin20@gmail.com",
+        email: "soportetiav@gmail.com",
         phone: "+52 951 161 74 12",
         location: "Ciudad de Oaxaca de Juárez"
     },
